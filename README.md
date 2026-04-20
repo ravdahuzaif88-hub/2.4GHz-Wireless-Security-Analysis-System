@@ -7,13 +7,12 @@ for real-time 2.4GHz spectrum analysis, BLE spoofing, and Wi-Fi deauthentication
 - ESP32-WROOM-32U Dev Board
 - 3x NRF24L01 with adapter boards (YL-105)
 - 0.96 inch SSD1306 OLED Display
-- 4x Tactile Push Buttons
+- 5x Tactile Push Buttons
 
 ## Features
 - 2.4GHz spectrum scanner across 128 channels
 - Wi-Fi and BLE jammer
-- BLE device spoofer (Apple, Samsung, Google)
-- Sour Apple attack
+- BLE device spoofer 
 - Wi-Fi deauthentication
 - Real-time OLED spectrum display
 
